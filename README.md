@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rrisch816
-- 👀 I’m interested in all things Data Science- Statistics, Machine Learning, Data Visualization, Interactives and Web Apps etc., Earth Science, Sports Analytics, Government, Entertainment Production, Music, and more. 
+- 👋 Hi, I’m Rebecca Risch
+- 👀 I’m interested in all things Data Science- Statistics, Machine Learning, Data Visualization, Interactives and Web Apps etc. I'm also interested in Earth Science, Sports Analytics, Government, Entertainment Production, Music, and more. 
 - 🌱 I’m currently working on my Bachelor's Degree at Dartmouth College, majoring in Mathematical Data Sciences and minoring in Environmental Earth Sciences.
 - 📫 How to reach me: beccar816@gmail.com
 
